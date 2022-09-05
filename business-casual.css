@@ -22,8 +22,9 @@ h1 {
 @media all and (max-width: 1000px) {
     
     h1 {
-     font-size: 40px;
-     padding-left: none;
+     font-size: 25px;
+     padding-left: -5%;
+     padding-top: 8%;
     }
 
 }
