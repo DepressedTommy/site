@@ -6,4 +6,5 @@
 
 header {
     background-image: linear-gradient(to bottom right, #3669c0, #151c64);
+    box-sizing: border-box;
 }
