@@ -5,10 +5,12 @@
  */
 
 header {
-    background-image: linear-gradient(to bottom right, #3669c0, #151c64);
     background-color: #3669c0;
+    color: #151c64;
     padding: 0px;
     width: 100%;
     height: 120px;
     margin: -0.00000000001px -0.000000001px 0px -0px;
+    border: none;
+    background-image: linear-gradient(to bottom right, #3669c0, #151c64);
 }
