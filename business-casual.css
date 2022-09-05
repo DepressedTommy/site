@@ -6,6 +6,7 @@
 
 header {
     background-image: linear-gradient(to bottom right, #3669c0, #151c64);
+    background-color: #3669c0;
     width: 300px;
     border: 15px solid green;
     padding: 50px;
