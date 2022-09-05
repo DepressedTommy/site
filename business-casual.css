@@ -7,9 +7,9 @@
 
 .header {
     padding: 0px;
-    width: max-content;
+    width: 120%;
     height: 120px;
-    border: solid;
+    border: none;
     background-image: linear-gradient(to bottom right, #3669c0, #151c64);
     color: #ffd460;
 }
