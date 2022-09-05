@@ -19,11 +19,11 @@ h1 {
     font-size: 60px;
     font-family: 'Heebo', sans-serif;
 }
-@media all and (max-width: 800px) {
+@media all and (max-width: 1000px) {
     
     h1 {
-     font-size: 30px;
-     padding-left: 2%;
+     font-size: 40px;
+     padding-left: none;
     }
 
 }
