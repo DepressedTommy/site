@@ -6,7 +6,8 @@
 
 
 .header {
-    padding-left: 20px;
+    margin-right: 20px;
+    margin-top: -25px;
     width: 120%;
     height: 120px;
     border: none;
