@@ -4,13 +4,8 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-@media (max-width: 600px) {
-    h1 {
-     font-size: 40px;
-    }
-}
 
-.header {
+ .header {
     margin-left: -10px;
     margin-top: -46px;
     padding-right: 25%;
@@ -23,4 +18,9 @@
 h1 {
     font-size: 60px;
     font-family: 'Heebo', sans-serif;
+}
+@media (max-width: 400px) {
+    h1 {
+     font-size: 10px;
+    }
 }
