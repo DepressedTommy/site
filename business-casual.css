@@ -4,7 +4,6 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-
 .header {
     margin-left: -10px;
     margin-top: -15px;
@@ -16,6 +15,6 @@
     color: #ffd460;
 }
 h1 {
-    font-size: 100px;
-    font: 'Heebo', sans-serif;
+    font-size: 80px;
+    font-family: 'Heebo', sans-serif;
 }
