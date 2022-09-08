@@ -4,7 +4,9 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-
+ body {
+    overflow-x: hidden; /* Hide scrollbars */
+  }
  .header {
     margin-left: -10px;
     margin-top: -8px;
