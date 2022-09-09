@@ -39,8 +39,9 @@ h2 {
 .midline {
     margin-left: -10px;
     padding-right: 25%;
+    margin-top: -8px;
     width: 100%;
-    height: 46%;
+    height: 20%;
     border: none;
     background-image: linear-gradient(to bottom right, #3669c0, #151c64);
     color: white;
