@@ -7,7 +7,7 @@
 body {
     overflow-x: hidden; /* Hide scrollbars */
 }
-.body::-webkit-scrollbar {
+body::-webkit-scrollbar {
     display: none;
 }
  .header {
