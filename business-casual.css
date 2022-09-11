@@ -39,6 +39,11 @@ h2 {
     font-family: 'Open Sans', sans-serif;
     font-size: 19px;
 }
+h3 {
+    color: aliceblue;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
 .midline {
     margin-left: -10px;
     padding-right: 25%;
