@@ -6,9 +6,7 @@
 
 body {
     overflow-x: hidden; /* Hide scrollbars */
-}
-body::-webkit-scrollbar {
-    display: none;
+    overflow-y: hidden; /* Hide scrollbars */
 }
  .header {
     margin-left: -10px;
