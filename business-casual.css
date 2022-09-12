@@ -7,6 +7,19 @@
 body {
     overflow-x: hidden; /* Hide scrollbars */
 }
+::-webkit-scrollbar {
+    width: 10px;
+}
+::-webkit-scrollbar-track {
+    background: #ffd460; 
+}
+::-webkit-scrollbar-thumb {
+    background: #151c64;
+    background-image: linear-gradient(to bottom right, #3669c0, #151c64); 
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #3669c0; 
+}
  .header {
     margin-left: -10px;
     margin-top: -8px;
