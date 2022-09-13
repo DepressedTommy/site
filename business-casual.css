@@ -34,7 +34,7 @@ body {
 h1 {
     font-size: 60px;
     font-family: 'Heebo', sans-serif;
-    margin-top: 5px;
+    margin-top: 32px;
 }
 @media all and (max-width: 1000px) {
     
