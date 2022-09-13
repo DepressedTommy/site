@@ -32,9 +32,9 @@ body {
     position: fixed;
 }
 h1 {
-    font-size: 60px;
+    font-size: 50px;
     font-family: 'Heebo', sans-serif;
-    margin-top: 32px;
+    margin-top: 38px;
 }
 @media all and (max-width: 1000px) {
     
