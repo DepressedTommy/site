@@ -20,7 +20,16 @@ body {
 ::-webkit-scrollbar-thumb:hover {
     background: #3669c0; 
 }
- .header {
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+    document.getElementById("header").style.fontSize = "30px";
+  } else {
+    document.getElementById("header").style.fontSize = "90px";
+  }
+}
+#header {
     margin-left: -10px;
     margin-top: -8px;
     padding-right: 25%;
@@ -30,6 +39,7 @@ body {
     background-image: linear-gradient(to bottom right, #3669c0, #151c64);
     color: #ffd460;
     position: fixed;
+    transition: 0.2s;
 }
 h1 {
     font-size: 50px;
