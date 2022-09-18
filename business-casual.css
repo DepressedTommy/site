@@ -92,4 +92,7 @@ p {
     text-decoration: none;
     text-decoration-color: none;
     color: #ffd460;
+    background: none;
+    border: none;
+    size: 40px;
 }
