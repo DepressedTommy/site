@@ -94,4 +94,16 @@ p {
     background: url("https://www.robertwalters.be/content/dam/robert-walters/country/united-states/images/article-images/RW%20US%20Images19.jpg");
     margin-left: 18%;
     margin-top: 3%;
+    animation: slide 10s infinite;
+}
+@keyframes slider{
+  25%{
+    background: url("https://www.robertwalters.be/content/dam/robert-walters/country/united-states/images/article-images/RW%20US%20Images19.jpg");
+  }
+  50%{
+    background: url("https://bandbbulletin.com/wp-content/uploads/2021/09/What-is-3D-printing-3.jpg");
+  }
+  75%{
+    background: url("https://ieeecs-media.computer.org/wp-media/2018/07/16170210/two-people-working-on-tablet-and-desktop.jpg");
+  }
 }
