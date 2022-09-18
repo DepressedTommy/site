@@ -98,7 +98,7 @@ p {
     font-family: 'Open Sans', sans-serif;
     font-size: 16.2px;
 }
-.myBtn:active{
+.myBtn:hover{
     background: #ffd460;
     color: aliceblue;
 }
