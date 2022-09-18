@@ -80,10 +80,10 @@ p {
     font-size: 40px;
 }
 .secline {
-    margin-top: -2%;
+    margin-top: -1%;
     width: 100%;
     height: 350px;
     border: none;
     background-image: linear-gradient(to bottom right, #3669c0, #151c64);
-    margin-left: -2%;
+    margin-left: -0.2%;
 }
