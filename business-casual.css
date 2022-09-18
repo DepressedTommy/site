@@ -80,7 +80,8 @@ p {
     font-size: 40px;
 }
 .secline {
-    margin-top: -1%;
+    margin-top: -2%;
+    padding-right: 10px;
     width: 102%;
     height: 350px;
     border: none;
