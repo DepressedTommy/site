@@ -96,7 +96,7 @@ p {
     margin-top: 3%;
     animation: slide 20s infinite;
 }
-@keyframes slider{
+@keyframes slider {
   25%{
     background: url("https://www.3erp.com/wp-content/webp-express/webp-images/uploads/2017/11/Laser-Cutting-Services.jpg.webp");
   }
