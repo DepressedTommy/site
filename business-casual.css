@@ -94,7 +94,7 @@ p {
     background: url("https://www.robertwalters.be/content/dam/robert-walters/country/united-states/images/article-images/RW%20US%20Images19.jpg");
     margin-left: 18%;
     margin-top: 3%;
-    animation: slide 20s infinite;
+    animation: 4s infinite;
 }
 @keyframes slider {
   25%{
