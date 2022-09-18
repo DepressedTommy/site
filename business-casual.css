@@ -88,4 +88,8 @@ p {
     margin-left: -0.5%;
     background-image: linear-gradient(to bottom right, #3669c0, #151c64);
 }
-
+.myBtn {
+    text-decoration: none;
+    text-decoration-color: none;
+    color: #ffd460;
+}
