@@ -95,4 +95,10 @@ p {
     background: none;
     border: none;
     size: 40px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16.2px;
+}
+.myBtn:active{
+    background: #ffd460;
+    color: aliceblue;
 }
