@@ -86,7 +86,7 @@ p {
     height: 700px;
     border: none;
     margin-left: -0.5%;
-    background: url("https://res.cloudinary.com/grand-canyon-university/image/fetch/w_750,h_564,c_fill,g_faces,q_auto/https://www.gcu.edu/sites/default/files/media/images/Blog/business-and-management/people-working-on-a-project.jpg");
+    background-image: linear-gradient(to bottom right, #3669c0, #151c64);
 }
 .slider {
     width: 400px;
