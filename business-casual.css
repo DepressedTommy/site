@@ -101,4 +101,5 @@ p {
 .myBtn:hover{
     background: #ffd460;
     color: aliceblue;
+    cursor: pointer;
 }
