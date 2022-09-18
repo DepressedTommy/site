@@ -94,12 +94,14 @@ p {
     color: #ffd460;
     background: none;
     border: none;
-    size: 120px;
-    font-family: 'Open Sans', sans-serif;
-    font-size: 40px;
+    font-family: 'Heebo', sans-serif;
+    font-size: 32px;
+    transition: all 500ms;
+    font-weight: bold;
 }
 .myBtn:hover{
     background: #ffd460;
     color: aliceblue;
     cursor: pointer;
+    font-size: 40px;
 }
