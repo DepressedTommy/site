@@ -81,9 +81,9 @@ p {
 }
 .secline {
     margin-top: -1%;
-    width: 101%;
+    width: 102%;
     height: 350px;
     border: none;
     background-image: linear-gradient(to bottom right, #3669c0, #151c64);
-    margin-left: -0.2%;
+    margin-left: -0.5%;
 }
