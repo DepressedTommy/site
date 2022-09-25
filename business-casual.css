@@ -99,11 +99,12 @@ p {
 }
 .contacts {
     width: 102%;
-    height: 500px;
+    height: 350px;
     margin-left: -0.5%;
     border: none;
     background: #ffd460;
     margin-top: -2.2%;
+    margin-bottom: -2%;
 }
 .myBtn {
     text-decoration: none;
