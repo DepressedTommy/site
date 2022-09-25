@@ -101,7 +101,8 @@ p {
     width: 102%;
     height: 350px;
     margin-left: -0.5%;
-    border: none;
+    border: solid;
+    border-color: #ffd460;
     background: #ffd460;
     margin-top: -2.2%;
     margin-bottom: -2%;
