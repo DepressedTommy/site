@@ -92,10 +92,18 @@ p {
     margin-top: -2.2%;
     padding-right: 10px;
     width: 102%;
-    height: 2600px;
+    height: 2800px;
     border: none;
     margin-left: -0.5%;
     background-image: linear-gradient(to bottom right, #3669c0, #151c64);
+}
+.contacts {
+    width: 102%;
+    height: 500px;
+    margin-left: -0.5%;
+    border: none;
+    background: #ffd460;
+    margin-top: -2.2%;
 }
 .myBtn {
     text-decoration: none;
