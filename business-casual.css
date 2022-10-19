@@ -71,14 +71,6 @@ p {
     border: none;
     background-image: linear-gradient(to bottom right, #3669c0, #151c64);
 }
-#hover a {
-    font-weight: bold;
-    font-size: 32px;
-    transition: all 500ms;
-}
-#hover a:hover {
-    font-size: 40px;
-}
 .secline {
     margin-top: -2%;
     padding-right: 10px;
